@@ -83,13 +83,6 @@ This will open Jupyter in your default browser. Navigate to the `notebooks/` fol
 
 ## 📋 Required Packages
 
-Create a `requirements.txt` file with these common packages:
-
-```
-jupyter>=1.0.0
-matplotlib>=3.7.0
-```
-
 Install all at once:
 ```bash
 pip install -r requirements.txt
