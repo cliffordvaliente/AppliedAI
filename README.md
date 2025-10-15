@@ -20,7 +20,8 @@ This repository contains my projects through applied AI and machine learning pro
 
 ### Project 1: ApplicationPythonBasics
 - **Description**: Python Basics Introduction
-- **Notebook**: <br/> /ApplicationPythonBasics <br/>
+- **Notebook**: 
+<br/> /ApplicationPythonBasics <br/>
 1.1 - Jupyter Basics.ipynb <br/>
 1.2 - Python I - Arithmetic Operations and Functions.ipynb <br/>
 1.3 - Python II - Variables.ipynb <br/>
@@ -83,6 +84,8 @@ This will open Jupyter in your default browser. Navigate to the `notebooks/` fol
 
 ## 📋 Required Packages
 
+Get the `requirements.txt` pip files with common packages:
+
 Install all at once:
 ```bash
 pip install -r requirements.txt
@@ -117,11 +120,11 @@ AppliedAI/
 │   ├── project2.ipynb
 │   └── ...
 │
-├── data/                   # Datasets (not tracked in git)
+├── data/                   # Datasets (comming soon)
 │   ├── raw/
 │   └── processed/
 │
-├── models/                 # Saved models
+├── models/                 # Saved models 
 │   └── .gitkeep
 │
 ├── outputs/                # Results, plots, reports
@@ -138,7 +141,7 @@ AppliedAI/
 
 ## Contributing
 
-This is a personal learning repository, but suggestions and feedback are welcome! Feel free to:
+This is a learning repository. Feel free to:
 
 1. Fork the repository
 2. Create a feature branch
